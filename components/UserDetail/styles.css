@@ -1,0 +1,34 @@
+.user-detail-container {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.user-name {
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.user-detail-label {
+  margin-bottom: 10px;
+}
+
+.user-detail-description {
+  margin-top: 10px;
+  font-style: italic;
+  color: #555;
+}
+
+.user-detail-photos {
+  color: blue;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.user-detail-photos:hover {
+  text-decoration: underline;
+}

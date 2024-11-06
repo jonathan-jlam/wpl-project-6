@@ -1,0 +1,12 @@
+.comment-body {
+  margin-bottom: '1em'; 
+  padding-left: '1em'; 
+  border-left: 3px solid #4a4a4a;
+  padding-left: 10px;
+  margin-left: 10px;
+  margin-bottom: 6px;
+}
+
+.nav-button {
+  font-size: 34px;
+}
